@@ -1,0 +1,17 @@
+.box{
+position:relative;
+text-align:center;
+color:white;
+background : #22;
+}
+.swiper{
+width: 90%;
+height: 90%;
+text-align: center;
+color: red;
+font-size: 30px;
+}
+.swiper-slide img{
+	width: 1600px;
+	height: 600px;
+}
